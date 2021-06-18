@@ -28,8 +28,8 @@ export default {
                 url: 'https://m.maizuo.com/gateway',
                 method: 'get',
                 params: {
-                        cityId: 440100,
-                        k: 5348003 ,
+                        cityId: 110100,
+                        k: 5847395 ,
                         pageNum: 1,
                         pageSize: 10,
                         type: 1

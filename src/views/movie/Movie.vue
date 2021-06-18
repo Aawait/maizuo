@@ -59,5 +59,11 @@ export default {
 
 
 <style lang ="scss" scoped>
-       
+       #movie{
+           height: 100vh;
+           .content{
+               height: calc(100% - 98px);
+               overflow: hidden;
+             }
+       }
 </style>

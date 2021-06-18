@@ -26,7 +26,7 @@
                             </div>  
                        </div>
         </nav-bar>
-
+        
         <cinema-list></cinema-list>
 
     </div>
@@ -37,11 +37,13 @@
 
 import NavBar from 'components/navbar/NavBar'
 import CinemaList from 'components/list/CinemaList'
+
 export default {
     name: "Cinema",
     components: {
         NavBar,
-        CinemaList
+        CinemaList,
+
     },
     methods: {
        goCitys(){

@@ -110,8 +110,8 @@ export default {
            span{
                width: 100px;
                height: 100px;
-               background: #f2eada;
-               box-shadow: 3px 3px 10px #9d9087 inset;
+               background: #fff;
+               box-shadow: 3px 3px 10px #f1f1f1 inset;
                text-align: center;
                line-height: 100px;
                font-size: 30px;

@@ -25,6 +25,8 @@ export default {
          width: 100%;
           position: fixed;
           top: 0;
+          background: #fff;
+          z-index: 10;
 
         .navbar-top{
             width: 100%;
